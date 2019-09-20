@@ -1,0 +1,9 @@
+{
+  "token": "NjI0NzQ1MDAwNDI0NzAxOTYz.XYVdPw.zyUPFvOte5CRPlVX89aY5sY3Jnk",
+  "prefix": "!",
+
+  "activity": {
+    "streaming": false,
+    "game": "test"
+  }
+}
